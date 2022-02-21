@@ -28,15 +28,15 @@ In `index.html` vindt je de HTML voor de opdracht. Denk eraan:
 * Houd er rekening mee dat de body `1200px` breed is.
 * Houd het cheatsheet van CSS Tricks bij de hand voor alle [Flexbox properties](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
-### Eindresultaat opdracht 2.1:
-Zorg dat het paarse review-blok er zo uit komt te zien door flexbox te gebruiken:
+### Eindresultaat opdracht 2.1: 
+Zorg dat het paarse review-blok er zo uit komt te zien door flexbox te gebruiken: 
 
-![Opdracht 2.1](opdracht-2/assets/one.png "Eindresultaat")
+![Opdracht 2.1](opdracht-2/assets/one.png "Eindresultaat") //done
 
 ### Eindresultaat opdracht 2.2:
 Zorg dat de `<div class="two">` er zo uit komt te zien door flexbox te gebruiken:
 
-![Opdracht 2.2](opdracht-2/assets/two.png "Eindresultaat")
+![Opdracht 2.2](opdracht-2/assets/two.png "Eindresultaat") //done
 
 ### Eindresultaat opdracht 2.3:
 Zorg dat de `<div class="three">` er zo uit komt te zien door flexbox te gebruiken:
