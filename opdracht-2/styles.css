@@ -33,6 +33,7 @@ body {
     display: flex;
     justify-content: space-between;
     flex-basis: 250px;
+    /*flex-grow en flex-shrink toevoegen*/
 }
 
 /*<!--    OPDRACHT 2.4    -->*/
@@ -56,6 +57,9 @@ body {
 }
 
 .five-item {
+    /*padding is 20px aan elke kant, dus 400 (1/3e van 1200) - 2 x 20 = 360px*/
     flex-basis: 350px;
+    /*flex-shrink toevoegen*/
     flex-grow: 1;
+
 }

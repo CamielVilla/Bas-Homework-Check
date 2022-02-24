@@ -31,6 +31,7 @@ nav a {
     text-decoration: none;
 }
 
+
 nav a:hover {
     color: purple;
 }
@@ -39,6 +40,7 @@ nav a:hover {
 
 main a:visited {
     text-decoration: none;
+    /*nog kleur toevoegen bij visited*/
 }
 
 main a:hover {
@@ -48,6 +50,7 @@ main a:hover {
 /* Verander de achtergrond van de SignUp button. Tip: https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors  */
 
 .subscribe input[type=submit] {
+/*.subscribe wellicht overbodig aangezien specificatie van type.*/
     background-color: rebeccapurple;
 }
 /* Geef het tekst-veld een blauwe rand wanneer hij in focus is */
